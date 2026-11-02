@@ -1,56 +1,66 @@
 <div align="center">
 
-<img width="2008" height="1015" alt="1000007413" src="https://github.com/user-attachments/assets/712cbab7-641d-4bf1-9918-2c605089d5b2" />
+<img width="400" height="329" alt="1000007633" src="https://github.com/user-attachments/assets/410d9939-3676-47b2-a195-1b564b560e18" />
 
-<img width="1000" height="200" alt="1000007414" src="https://github.com/user-attachments/assets/3bd36a89-88e9-4889-9cd1-1ecbfebab2b0" />
+<img width="468" height="60" alt="1000007634" src="https://github.com/user-attachments/assets/c51815da-a3cf-41ca-8901-e33d3b80ab35" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5CEEFB3&width=435&lines=When+you+swing+your+brush%2C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&color=B0ABBC&width=435&lines=WAILING;AND;WAILING;TIL;YOU;REACH+;DAYBREAK+!)](https://git.io/typing-svg)
 
 <img width="150" height="20" alt="1000006190" src="https://github.com/user-attachments/assets/dedd1851-e1dc-4df9-bd51-038fbc753061" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5CEEFB3&width=435&lines=You+have+to+follow+through!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&color=B0ABBC&width=435&lines=FLAILING;AND;FLAILING;TILL;YO;BONES+;ACHE+!)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
-
-$\color{#C5CEEFB3}\tiny{\textbf{Writing on the Wall • Will Stetson}}$
 
 <div align="left">
 
-$\color{#C5CEEFB3}\small{\textbf{☾ ಄ parody — p.ai.nter , , , ᶻz ⊦ ҂}}$
+$\color{#b0abbc}\small{\textbf{ ୭˚.ᐟ.ᐟ 𝚙𝚊𝚛𝚘𝚍𝚢 / 𝚙.𝚊𝚒.𝚗𝚝𝚎𝚛 ⸝⸝ ˎˊ˗ }}$
 
-$\color{#C5CEEFB3}\small{\textbf{✶  ⠄ ˶  INTP   ~~ 𖥵 ~~  ⧝  SP4 }}$
+$\color{#b0abbc}\small{\textbf{☾ ಄ INTP — SP4 , , , ᶻz ⊦ ҂}}$
+
 
 </div>
 
-<img width="1000" height="200" alt="1000007416" src="https://github.com/user-attachments/assets/f4e409b6-8eb4-47e3-b106-9ca49b9057e6" />
+<img width="400" height="329" alt="1000007635" src="https://github.com/user-attachments/assets/90c08c42-3168-4d65-b457-772072b73807" />
 
 <div align="right">
 
-$\color{#C5CEEFB3}\small{\textbf{ .  ︵  ✧  × oomfs }}$
+$\color{#b0abbc}\small{\textbf{ .  ︵  ✧  × oomfs }}$
 
-$\color{#C5CEEFB3}\small{\textbf{ @MonIdroc — @KandiChann ( eggy as honorable mention )}}$
+$\color{#b0abbc}\small{\textbf{ @MonIdroc — @KandiChann ( eggy as honorable mention )}}$
+
+</div>
+
+<div align="center">
+
+$\color{#b0abbc}\small{\textbf{ this computer is a poet !! check doc 4 poems !}}$
+
+$\color{#b0abbc}\small{\textbf{ my SOCIALS !!! }}$
+
+[<img width="112" height="73" alt="1000007529" src="https://github.com/user-attachments/assets/e1fb46bb-c510-47bc-893c-44753af038d4" />](https://docs.google.com/document/d/1C1BxXzu3sDcoINK7eIG6VP01eC53U9_W-P766UFQOnU/edit?usp=drivesdk)
 
 </div>
 
 <div align="center">
 
-$\color{#C5CEEFB3}\small{\textbf{ this computer is a poet !! check doc 4 poems !}}$
+[<img width="112" height="73" alt="1000007516" src="https://github.com/user-attachments/assets/9b376ca6-05de-4b26-831b-ad58ce5df8f9" />](https://parodicalcomputer.straw.page)
 
 </div>
 
 <div align="center">
+  
 <details>
 
 <summary></summary>
 
-$\color{#C5CEEFB3}\small{\textbf{ CREDITS !!!!! }}$
+$\color{#B0ABBC}\small{\textbf{ CREDITS !!!!! }}$
 
-[astrivion](https://www.tumblr.com/astrivion/788440349923328000/painter-pressure-layout-graphics-oo-i-love-ur?source=share) 
+[1](https://www.tumblr.com/lith0s/805502609172676608/painter-graphic-stamps-ft?source=share)
 
-[verbaatim](https://www.tumblr.com/verbaatim/788485402480803840/guess-who-got-ibis-paint-premium?source=share) 
+[2](https://www.tumblr.com/lith0s/805418278176587776/painter-graphics%E3%82%9D-self-indulgent-id?source=share) 
 
-$\color{#C5CEEFB3}\tiny{\textbf{also PS . before anyone slimes me out , i seperate the game from the creator and do NOT take zeal or ren's side .}}$
+$\color{#b0abbc}\tiny{\textbf{also PS . before anyone slimes me out , i seperate the game from the creator and do NOT take zeal or ren's side .}}$
 
 </details>
