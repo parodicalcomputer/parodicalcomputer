@@ -35,9 +35,9 @@ $\color{#b0abbc}\small{\textbf{☾ ಄ INTP — SP4 , , , ᶻz ⊦ ҂}}$
 
 <div align="right">
 
-$\color{#b0abbc}\small{\textbf{ .  ︵  ✧  × oomfs }}$
-
-$\color{#b0abbc}\small{\textbf{ @MonIdroc — @KandiChann ( eggy as honorable mention )}}$
+$\color{#b0abbc}\small{\textbf{ .  ︵  ✧  × oomfs}}$
+[@MonIdroc](https://github.com/MonIdroc)
+[KandiChann](https:/github.com/KandiChann)
 
 </div>
 
