@@ -4,15 +4,23 @@
 
 <img width="468" height="60" alt="1000007634" src="https://github.com/user-attachments/assets/c51815da-a3cf-41ca-8901-e33d3b80ab35" />
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&color=B0ABBC&width=435&lines=WAILING;AND;WAILING;TIL;YOU;REACH+;DAYBREAK+!)](https://git.io/typing-svg)
-
-<img width="150" height="20" alt="1000006190" src="https://github.com/user-attachments/assets/dedd1851-e1dc-4df9-bd51-038fbc753061" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&color=B0ABBC&width=435&lines=FLAILING;AND;FLAILING;TILL;YO;BONES+;ACHE+!)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
+
+<img width="150" height="20" alt="1000006190" src="https://github.com/user-attachments/assets/dedd1851-e1dc-4df9-bd51-038fbc753061" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&color=B0ABBC&width=435&lines=FLAILING;AND;FLAILING;TILL;YO;BONES+;ACHE+!)](https://git.io/typing-svg)
+
+</div>
 
 <div align="left">
 
