@@ -1,57 +1,38 @@
-<div align="center">
- 
-<img width="2008" height="1015" alt="1000007413" src="https://github.com/user-attachments/assets/712cbab7-641d-4bf1-9918-2c605089d5b2" />
-
-<img width="1000" height="200" alt="1000007414" src="https://github.com/user-attachments/assets/3bd36a89-88e9-4889-9cd1-1ecbfebab2b0" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5CEEFB3&width=435&lines=When+you+swing+your+brush%2C)](https://git.io/typing-svg)
-
-<img width="150" height="20" alt="1000006190" src="https://github.com/user-attachments/assets/dedd1851-e1dc-4df9-bd51-038fbc753061" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5CEEFB3&width=435&lines=You+have+to+follow+through!)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-$\color{#C5CEEFB3}\tiny{\textbf{Writing on the Wall • Will Stetson}}$
-
 <div align="left">
+ 
+<img width="190" height="100" alt="1000007516" src="https://github.com/user-attachments/assets/a75f545a-1bf5-41b4-807a-62ba258a3835" /> 
 
-$\color{#C5CEEFB3}\small{\textbf{☾ ಄ parody — p.ai.nter , , , ᶻz ⊦ ҂}}$
-
-$\color{#C5CEEFB3}\small{\textbf{✶  ⠄ ˶  INTP   ~~ 𖥵 ~~  ⧝  SP4 }}$
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1&color=B0ABBC&width=435&lines=ERROR+!)](https://git.io/typing-svg)
 
 </div>
 
-<img width="1000" height="200" alt="1000007416" src="https://github.com/user-attachments/assets/f4e409b6-8eb4-47e3-b106-9ca49b9057e6" />
+<div align="center">
+
+<img width="400" height="329" alt="1000007633" src="https://github.com/user-attachments/assets/2fb34f83-435d-4c18-aba8-773156f66644" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&color=B0ABBC&width=435&lines=ERROR+!)](https://git.io/typing-svg)
+
+</div>
 
 <div align="right">
-
-$\color{#C5CEEFB3}\small{\textbf{ .  ︵  ✧  × oomfs }}$
-
-$\color{#C5CEEFB3}\small{\textbf{ @MonIdroc — @KandiChann ( eggy as honorable mention )}}$
-
-</div>
-
-<div align="center">
-
-$\color{#C5CEEFB3}\small{\textbf{ this computer is a poet !! check doc 4 poems !}}$
-
-</div>
-
-<div align="center">
-<details>
  
-<summary></summary>
+<img width="190" height="100" alt="1000007530" src="https://github.com/user-attachments/assets/85ef4b90-5f46-4fa2-bc06-92ee5e5cef01" />
 
-$\color{#C5CEEFB3}\small{\textbf{ CREDITS !!!!! }}$
+</div>
 
-[astrivion](https://www.tumblr.com/astrivion/788440349923328000/painter-pressure-layout-graphics-oo-i-love-ur?source=share) 
+<div align="center">
 
-[verbaatim](https://www.tumblr.com/verbaatim/788485402480803840/guess-who-got-ibis-paint-premium?source=share) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&color=B0ABBC&width=435&lines=WAILING+AND+WAILING;TIL+YOU+REACH;DAYBREAK+!)](https://git.io/typing-svg)
 
-$\color{#C5CEEFB3}\tiny{\textbf{also PS . before anyone slimes me out , i seperate the game from the creator and do NOT take zeal or ren's side .}}$
 
-</details>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&color=B0ABBC&width=435&lines=FLAILING+AND+FLAILING;TIL+YO+BONES+;ACHE+!)](https://git.io/typing-svg)
 
+</div>
+
+<div align="center">
+
+<img width="468" height="60" alt="1000007634" src="https://github.com/user-attachments/assets/3239ba77-aad6-4c8a-9a3b-9b9e6ca3e1e2" />
+
+</div>
+
+<img width="468" height="60" alt="1000007634" src="https://github.com/user-attachments/assets/17473ac0-f8fc-4a85-85b6-7aa62790f85f" />
