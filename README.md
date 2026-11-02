@@ -1,6 +1,6 @@
 <div align="left">
  
-<img width="190" height="100" alt="1000007516" src="https://github.com/user-attachments/assets/a75f545a-1bf5-41b4-807a-62ba258a3835" /> 
+<img width="112" height="73" alt="1000007516" src="https://github.com/user-attachments/assets/a75f545a-1bf5-41b4-807a-62ba258a3835" /> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1&color=B0ABBC&width=435&lines=ERROR+!)](https://git.io/typing-svg)
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img width="400" height="329" alt="1000007633" src="https://github.com/user-attachments/assets/2fb34f83-435d-4c18-aba8-773156f66644" />
+<img width="300" height="229" alt="1000007633" src="https://github.com/user-attachments/assets/2fb34f83-435d-4c18-aba8-773156f66644" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&color=B0ABBC&width=435&lines=ERROR+!)](https://git.io/typing-svg)
 
@@ -16,7 +16,7 @@
 
 <div align="right">
  
-<img width="190" height="100" alt="1000007530" src="https://github.com/user-attachments/assets/85ef4b90-5f46-4fa2-bc06-92ee5e5cef01" />
+<img width="112" height="73" alt="1000007530" src="https://github.com/user-attachments/assets/85ef4b90-5f46-4fa2-bc06-92ee5e5cef01" />
 
 </div>
 
@@ -35,4 +35,6 @@
 
 </div>
 
-<img width="468" height="60" alt="1000007634" src="https://github.com/user-attachments/assets/17473ac0-f8fc-4a85-85b6-7aa62790f85f" />
+
+
+$\color{#b0abbc}\small{\textbf{ ୭˚.ᐟ.ᐟ 𝚙𝚊𝚛𝚘𝚍𝚢 / 𝚙.𝚊𝚒.𝚗𝚝𝚎𝚛 ⸝⸝ ˎˊ˗ }}$
