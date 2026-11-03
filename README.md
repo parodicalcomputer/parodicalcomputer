@@ -71,9 +71,4 @@ $\color{#B0ABBC}\small{\textbf{ CREDITS !!!!! }}$
 
 $\color{#b0abbc}\tiny{\textbf{also PS . before anyone slimes me out , i seperate the game from the creator and do NOT take zeal or ren's side .}}$
 
-$\color{#b0abbc}\small{\textbf{ also i change my github user alot 💔💔 so here are my past users ?? ig ?? 
-@chosentoburn
-@KRYPTIKALz
-@SillyyzAsteriskzz
-i have github identity crisis my bad gng}}$
 </details>
