@@ -45,7 +45,7 @@ $\color{#b0abbc}\small{\textbf{ .  ︵  ✧  × oomfs}}$
 
 $\color{#b0abbc}\small{\textbf{ this computer is a poet !! check doc 4 poems !}}$
 
-$\color{#b0abbc}\small{\textbf{ my SOCIALS !!! }}$
+$\color{#b0abbc}\small{\textbf{ my SOCIALS !!! (idont actually have socials ,, this is my doc and sp ) }}$
 
 [<img width="112" height="73" alt="1000007529" src="https://github.com/user-attachments/assets/e1fb46bb-c510-47bc-893c-44753af038d4" />](https://docs.google.com/document/d/1C1BxXzu3sDcoINK7eIG6VP01eC53U9_W-P766UFQOnU/edit?usp=drivesdk)
 
