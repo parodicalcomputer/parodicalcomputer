@@ -1,41 +1,41 @@
 <div align="center">
+  
+<img width="640" height="224" alt="1000007725" src="https://github.com/user-attachments/assets/7bdae9bb-d6df-42ae-b6ea-7431d9f34fd0" />
 
-<img width="400" height="329" alt="1000007633" src="https://github.com/user-attachments/assets/410d9939-3676-47b2-a195-1b564b560e18" />
-
-<img width="468" height="60" alt="1000007634" src="https://github.com/user-attachments/assets/c51815da-a3cf-41ca-8901-e33d3b80ab35" />
+<img width="468" height="60" alt="1000006184" src="https://github.com/user-attachments/assets/a9051d98-59b3-4735-8f39-b037aa6f6638" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&color=B0ABBC&width=435&lines=WAILING;AND;WAILING;TIL;YOU;REACH+;DAYBREAK+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&color=#7a7e85&width=435&lines=WAILING;AND;WAILING;TIL;YOU;REACH+;DAYBREAK+!)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-<img width="150" height="20" alt="1000006190" src="https://github.com/user-attachments/assets/dedd1851-e1dc-4df9-bd51-038fbc753061" />
+<img width="150" height="20" alt="1000006190" src="https://github.com/user-attachments/assets/8d3830af-eb7d-4716-baa6-2841c23cdaaf" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&color=B0ABBC&width=435&lines=FLAILING;AND;FLAILING;TILL;YO;BONES+;ACHE+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&color=#7a7e85&width=435&lines=FLAILING;AND;FLAILING;TILL;YO;BONES+;ACHE+!)](https://git.io/typing-svg)
 
 </div>
 
 <div align="left">
 
-$\color{#b0abbc}\small{\textbf{ ୭˚.ᐟ.ᐟ 𝚙𝚊𝚛𝚘𝚍𝚢 / 𝚙.𝚊𝚒.𝚗𝚝𝚎𝚛 ⸝⸝ ˎˊ˗ }}$
+$\color{#7a7e85}\tiny{\textbf{ ୭˚.ᐟ.ᐟ 𝚙𝚊𝚛𝚘𝚍𝚢 / 𝚙𝚞𝚣𝚣𝚕𝚎𝚜 ⸝⸝ ˎˊ˗ }}$
 
-$\color{#b0abbc}\small{\textbf{☾ ಄ INTP — SP4 , , , ᶻz ⊦ ҂}}$
+$\color{#7a7e85}\tiny{\textbf{☾ ಄ INTP — SP4 , , , ᶻz ⊦ ҂}}$
 
 
 </div>
 
-<img width="400" height="329" alt="1000007635" src="https://github.com/user-attachments/assets/90c08c42-3168-4d65-b457-772072b73807" />
+<img width="400" height="400" alt="1000007726" src="https://github.com/user-attachments/assets/951345eb-c0ef-4545-8ea7-b402c84ac328" />
 
 <div align="right">
 
-$\color{#b0abbc}\small{\textbf{ .  ︵  ✧  × oomfs}}$
+$\color{#7a7e85}\tiny{\textbf{ .  ︵  ✧  × oomfs}}$
 [@MonIdroc](https://github.com/MonIdroc)
 [@KandiChann](https://github.com/KandiChann)
 [@null-prod](https://github.com/null-prod)
@@ -44,17 +44,17 @@ $\color{#b0abbc}\small{\textbf{ .  ︵  ✧  × oomfs}}$
 
 <div align="center">
 
-$\color{#b0abbc}\small{\textbf{ this computer is a poet !! check doc 4 poems !}}$
+$\color{#7a7e85}\tiny{\textbf{ this computer is a poet !! check doc 4 poems !}}$
 
-$\color{#b0abbc}\small{\textbf{ my SOCIALS !!! (idont actually have socials ,, this is my doc and sp ) }}$
+$\color{#7a7e85}\tiny{\textbf{ my SOCIALS !!! (idont actually have socials ,, this is my doc and sp ) }}$
 
-[<img width="112" height="73" alt="1000007529" src="https://github.com/user-attachments/assets/e1fb46bb-c510-47bc-893c-44753af038d4" />](https://docs.google.com/document/d/1C1BxXzu3sDcoINK7eIG6VP01eC53U9_W-P766UFQOnU/edit?usp=drivesdk)
+[<img width="112" height="73" alt="1000007732" src="https://github.com/user-attachments/assets/e141c376-e525-40ad-8687-8f5b31d4731c" />](https://docs.google.com/document/d/1C1BxXzu3sDcoINK7eIG6VP01eC53U9_W-P766UFQOnU/edit?usp=drivesdk)
 
 </div>
 
 <div align="center">
 
-[<img width="112" height="73" alt="1000007516" src="https://github.com/user-attachments/assets/9b376ca6-05de-4b26-831b-ad58ce5df8f9" />](https://parodicalcomputer.straw.page)
+[<img width="112" height="73" alt="1000007733" src="https://github.com/user-attachments/assets/7bc15cd7-3e2c-4dff-9612-4d3680405015" />](https://parodicalcomputer.straw.page)
 
 </div>
 
@@ -64,12 +64,15 @@ $\color{#b0abbc}\small{\textbf{ my SOCIALS !!! (idont actually have socials ,, t
 
 <summary></summary>
 
-$\color{#B0ABBC}\small{\textbf{ CREDITS !!!!! }}$
+$\color{#7a7e85}\tiny{\textbf{ CREDITS !!!!! }}$
 
-[1](https://www.tumblr.com/lith0s/805502609172676608/painter-graphic-stamps-ft?source=share)
+[1](https://www.tumblr.com/renoikn/822923071654641664/hhellocan-youmake-a-discord-profile-layout-for?source=share)
 
-[2](https://www.tumblr.com/lith0s/805418278176587776/painter-graphics%E3%82%9D-self-indulgent-id?source=share) 
+$\color{#7a7e85}\tiny{\textbf{apparently smg4 is . problematic i think and i dont know why}}$
 
-$\color{#b0abbc}\tiny{\textbf{also PS . before anyone slimes me out , i seperate the game from the creator and do NOT take zeal or ren's side .}}$
+$\color{#7a7e85}\tiny{\textbf{its ok i larp smg4 anyway . }}$
+
+$\color{#7a7e85}\tiny{\textbf{so before someone flames me NO i dont support wtv theyve done}}÷
+
 
 </details>
