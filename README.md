@@ -24,7 +24,7 @@
 
 <div align="left">
 
-$\color{#b0abbc}\small{\textbf{ ୭˚.ᐟ.ᐟ 𝚙𝚊𝚛𝚘𝚍𝚢 / 𝚙.𝚊𝚒.𝚗𝚝𝚎𝚛 ⸝⸝ ˎˊ˗ }}$
+$\color{#b0abbc}\small{\textbf{ ୭˚.ᐟ.ᐟ ᴘᴀʀᴏᴅʏ / ꜰɪᴄᴛᴋɪɴ ɴᴀᴍᴇ ⸝⸝ ˎˊ˗ }}$
 
 $\color{#b0abbc}\small{\textbf{☾ ಄ INTP — SP4 , , , ᶻz ⊦ ҂}}$
 
