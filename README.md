@@ -19,3 +19,5 @@
 <img width="112" height="73" alt="1000007733" src="https://github.com/user-attachments/assets/8ab954cb-7e69-4f1b-86df-090382706414" />
   
 </div>
+
+wip look at sp for info
