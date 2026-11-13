@@ -19,28 +19,3 @@
 <img width="112" height="73" alt="1000007733" src="https://github.com/user-attachments/assets/8ab954cb-7e69-4f1b-86df-090382706414" />
   
 </div>
-
-my-website/
-├── index.html
-├── style.css
-└── fonts/
-    └── Skincake.woff
-
-    @font-face {
-    font-family: "Skincake";
-    src: url("./fonts/Skincake.woff") format("woff");
-    font-weight: normal;
-    font-style: normal;
-}
-
-body {
-    font-family: "Skincake", sans-serif;
-}
-
-h1 {
-    font-family: "Skincake", sans-serif;
-}
-
-p {
-    font-family: Arial, sans-serif;
-}
