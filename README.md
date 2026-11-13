@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img width="250" height="155" alt="1000007789" src="https://github.com/user-attachments/assets/dfe3026a-dd80-4337-96a4-3bfddf861b55" />
+<img width="250" height="155" alt="1000007715" src="https://github.com/user-attachments/assets/eb7e6eba-7f30-4110-bf1b-9affa23b2ace" />
 
 </div>
 
