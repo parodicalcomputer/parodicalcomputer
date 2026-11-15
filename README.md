@@ -10,7 +10,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Redaction+50&pause=1000&color=181F6AA1&vCenter=true&width=435&lines=I+will+be+the+bullet+%2C+baby+%2C" alt="Typing SVG" /></a>
 
-<img width="250" height="155" alt="1000007715" src="https://github.com/user-attachments/assets/eb7e6eba-7f30-4110-bf1b-9affa23b2ace" />
+<img width="222" height="124" alt="1000007808" src="https://github.com/user-attachments/assets/9e7c3d13-1cbc-4de3-9800-849e3510f394" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Redaction+50&pause=1000&color=181F6AA1&vCenter=true&width=435&lines=You'll+be+the+gun+!" alt="Typing SVG" /></a>
 
