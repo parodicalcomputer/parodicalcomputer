@@ -26,4 +26,9 @@
 
 </div>
 
-wip look at sp for info
+<div align="center">
+
+UUUHHHm im parody hi hello . iiiggnore the lazy github i gave up halfway through
+go to my sp if you want info .sigh thisis gonna take me a month to fjnish 
+
+</div>
