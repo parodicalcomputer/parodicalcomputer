@@ -30,5 +30,6 @@
 
 UUUHHHm im parody hi hello . iiiggnore the lazy github i gave up halfway through
 go to my sp if you want info .sigh thisis gonna take me a month to fjnish 
+ALSO doc attached has poems if you wanna read . uuhmmmmm yeahthats it wtv
 
 </div>
